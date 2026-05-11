@@ -1,0 +1,8 @@
+tracker_type: bytetrack
+# Lowered thresholds for aerial: vehicles are small and can appear/disappear
+track_high_thresh: 0.12
+track_low_thresh: 0.03
+new_track_thresh: 0.12
+track_buffer: 120          # very long buffer for drone footage (vehicles move slowly, can be occluded)
+match_thresh: 0.65        # stricter matching to avoid ID switches in congested areas
+fuse_score: true
