@@ -33,7 +33,7 @@ Manual traffic analysis from drone footage is slow and subjective. This system p
 
 Backend: Python 3.10, FastAPI, YOLOv8x (Ultralytics), ByteTrack, OpenCV, NumPy
 Frontend: React (Vite), hosted on Vercel
-Infrastructure: Hugging Face Spaces with Docker and T4 GPU
+Infrastructure: Hugging Face Spaces with Docker 
 
 ---
 
@@ -196,5 +196,5 @@ https://github.com/VisDrone/VisDrone-Dataset
 ## Author
 
 Your Name
-GitHub: github.com/yourhandle
-LinkedIn: linkedin.com/in/yourhandle
+GitHub: github.com/NetCatt
+
